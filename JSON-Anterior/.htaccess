@@ -1,0 +1,6 @@
+Options All -Indexes
+ErrorDocument 500 /JSON/404.html
+ErrorDocument 404 /JSON/404.html
+ErrorDocument 401 /JSON/404.html
+ErrorDocument 403 /JSON/404.html
+ErrorDocument 405 /JSON/404.html
